@@ -6,7 +6,7 @@ const Header = () => {
             <div className="header__top">
                 <img
                     className="logo"
-                    src="http://pakhmutov.ru/img/logo.png"
+                    src={require('../assets/logo.png')}
                     alt=""
                 />
                 <Search />
