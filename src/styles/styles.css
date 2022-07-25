@@ -103,4 +103,7 @@
     .nav-bar {
         display: none;
     }
+    .sticky {
+        display: none;
+    }
 }
